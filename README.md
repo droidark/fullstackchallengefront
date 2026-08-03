@@ -222,7 +222,3 @@ Stop the existing Vite process or delivery container before starting another fro
 ### npm reports `min-release-age`
 
 The current npm environment emits an advisory that this config key will stop working in a future npm major. It does not fail installation, validation, tests, or builds.
-
-## Delivery verification
-
-The exact final Phase 8 counts, coverage, bundle size, development E2E, Docker smoke test, containerized E2E, security scan, and known warnings are recorded in [`docs/phase8.md`](docs/phase8.md).
